@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rajiv-Gupta-05, a passionate learner exploring the realms of technology to develop innovative ideas.
+- 👋 Hi, I’m @Rajiv-Gupta-05, a passionate learner exploring the fields of technology to develop innovative ideas.
 - 💻 Tech Enthusiast: Constantly evolving with the tech landscape, I enjoy diving into new technologies, frameworks, and tools.
 - 🚀 Projects: Check out my GitHub repositories for a glimpse of my diverse projects. From web development to experimental ideas, each project reflects my commitment to practical learning and creativity.
 - 🌐 Portfolio: Explore my [portfolio](http://rajivgupta.rf.gd/?i=1) to delve deeper into my skills, experiences, and showcased projects. Witness firsthand the journey of turning ideas into reality.
